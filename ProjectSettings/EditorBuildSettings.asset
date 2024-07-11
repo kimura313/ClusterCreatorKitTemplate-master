@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ClusterTutorial/BeginnerSample.unity
+    guid: c16eb07edaab5594685ef07775a44c23
+  - enabled: 1
+    path: Assets/sample.unity
+    guid: 837a9cc99dd329645830246f448ffbf4
+  m_configObjects:
+    WebXR.Settings: {fileID: 11400000, guid: 620f5d50f06b69148b5d1412c42bdbdd, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1af3d13de63c3a042863e8eb680745a0,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 40a12e4c6576031438ff33c9407e96bf,
+      type: 2}
